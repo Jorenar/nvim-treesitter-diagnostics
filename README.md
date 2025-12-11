@@ -1,5 +1,5 @@
-Treesitter diagnostics
-======================
+Neovim Treesitter diagnostics
+=============================
 
 Query `ERROR` and `MISSING` nodes from Treesitter to emit Neovim diagnostics about syntax errors
 
